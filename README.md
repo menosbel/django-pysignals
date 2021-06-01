@@ -1,0 +1,1 @@
+Práctica de pysignals realizada siguiendo el tutorial de Pyplane: https://www.youtube.com/watch?v=W8MLlwvSS-U
